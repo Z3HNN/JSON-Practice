@@ -1,0 +1,12 @@
+ {
+    "name":"Kyle",
+    "favNumber": "34.238",
+    "hobies": ["turtle breeding", "illegal shrimp fighting", "scamming 7Eleven"],
+    "freinds": [{
+        "name": "B.O.B",
+        "radiationLvl ": "DANGEROUS",
+        "hobbies": ["hacking into bose speaker chips"],
+        "favNumber": "0.06320",
+        "freinds": "NONE"
+    }]
+ }
