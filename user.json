@@ -13,10 +13,17 @@
 
 
  [
-{
+      {
         "name": "big Corp",
         "numberOfEmployees": 8623,
         "CEO": "Mez",
-        
-}
+        "rating": 3.6
+      },
+      {
+        "name": "Small Startup",
+        "numberOfEmployees": 3,
+        "CEO": null,
+        "rating": 4.3
+      }
+
  ]
